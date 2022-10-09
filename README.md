@@ -74,10 +74,16 @@ npm run dev
 ## Screenshot
 
 #### List
+![list](https://user-images.githubusercontent.com/30346330/194783172-b3ceb561-1d23-46e0-b4b0-f628bc9b9ca0.png)
 
 #### Create/Edit
+![edit](https://user-images.githubusercontent.com/30346330/194783202-4993805b-3f76-48be-a4d9-a2294d4d9e04.png)
 
 #### Delete
+![delete](https://user-images.githubusercontent.com/30346330/194783218-fe12ca64-9462-4d0e-837f-d6024ef2d030.png)
+
 
 #### Shell Script
+![command](https://user-images.githubusercontent.com/30346330/194783274-a0bf5519-633f-487c-ba66-a319f59d9f96.png)
+![queue](https://user-images.githubusercontent.com/30346330/194783279-606b0582-f766-4769-a234-e4dd5d14b6dd.png)
 
